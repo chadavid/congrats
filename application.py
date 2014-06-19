@@ -88,11 +88,7 @@ response = """
 </head>
 <body id="sample">
   <div class="textColumn">
-<<<<<<< HEAD
-    <h1>Tongratulations</h1>
-=======
-    <h1>Devongratulations</h1>
->>>>>>> 541d2caca70e3dd67cf0dc6d6ef6b6f6edc7aecf
+    <h1>Aevongratulations</h1>
     <p>Your <strong>second</strong> AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
